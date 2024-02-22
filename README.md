@@ -14,7 +14,7 @@ This is a text-based, role-playing console game, written in Java, that demonstra
 
 Players get to make choices about their character and battles.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/6cBlXsBdvs0)
 
 # Development Environment
 
