@@ -42,8 +42,6 @@ Players get to make choices about their character and battles.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add more storyline to the game
+- Allow users to create their own RPG with reusable RPG class
+- Let users save and come back to their games
